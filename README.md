@@ -1,6 +1,6 @@
-#Taller 1 Diseñando con Algoritmos- Valeria Ramirez
+# Taller 1 Diseñando con Algoritmos- Valeria Ramirez
 
-##Clase Logica
+## Clase Logica
 
 Es la clase donde se hace el procesamiento general del programa
 
