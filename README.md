@@ -9,7 +9,7 @@ Es la clase donde se hace el procesamiento general del programa
 
 - drag(int, int)   Este metodo arrastra
 
-##Clase Esquema
+## Clase Esquema
 
 Clase Abstracta representa un esquema
 
