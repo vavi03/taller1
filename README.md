@@ -6,9 +6,9 @@ Es la clase donde se hace el procesamiento general del programa
 
 **Atributos**
 
-- interaccion (int)  Es el numero de interaccion que el usuario escogera.
+- interaccion:  Es el numero de interaccion que el usuario escogera.
 
-- datos  (String[])  arreglo que contiene cada palabra del texto.
+- datos: Arreglo que contiene cada palabra del texto.
 
 **Relaciones:**
 
@@ -90,10 +90,10 @@ Clase que representa la segunda interaccion.
 
 **Atributos:**
 
-- cuantoMov Este entero representa el limite de tamaño que tendran los elementos. 
-- tamCirculo Entero que representa el tamaño del primer circulo.
-- tamMin  Entero que representa el tamaño del segundo circulo.
-- tamCua  Entero que representa el tamaño del cuadrado.
+- cuantoMov: Este entero representa el limite de tamaño que tendran los elementos. 
+- tamCirculo: Entero que representa el tamaño del primer circulo.
+- tamMin:  Entero que representa el tamaño del segundo circulo.
+- tamCua: Entero que representa el tamaño del cuadrado.
 
 
 **Metodos:**
@@ -109,7 +109,7 @@ Clase que representa la tercera interaccion.
 
 **Atributos:**
 
-- numLineas Este entero representa el limite de lineas que tendran los elementos. 
+- numLineas: Este entero representa el limite de lineas que tendran los elementos. 
 
 
 
@@ -128,13 +128,13 @@ Clase que representa la cuarta interaccion.
 
 **Atributos:**
 
-- cantComida Este entero representa el limite de comida que puede recolectar. 
-- comida Posicion de la comida.
-- pos Vector que representa la posicion de la serpiente. 
-- vel Vector que representa la velocidad de la serpiente.
-- largoSerp Arraylist que contiene el tamaño de la serpiente.
-- tam Tamaño del fragmento de la serpiente.
-- vivo Boolean que representa la vida de la serpiente.
+- cantComida: Este entero representa el limite de comida que puede recolectar. 
+- comida: Posicion de la comida.
+- pos: Vector que representa la posicion de la serpiente. 
+- vel: Vector que representa la velocidad de la serpiente.
+- largoSerp: Arraylist que contiene el tamaño de la serpiente.
+- tam: Tamaño del fragmento de la serpiente.
+- vivo: Boolean que representa la vida de la serpiente.
 
 
 **Metodos:**
@@ -158,7 +158,7 @@ Clase que representa la quinta interaccion.
 
 **Atributos:**
 
-- cantTriangulos Este entero representa la cantidad de triangulos en el lienzo. 
+- cantTriangulos: Este entero representa la cantidad de triangulos en el lienzo. 
 
 
 **Metodos:**
@@ -174,7 +174,7 @@ Clase que representa la sexta interaccion.
 
 **Atributos:**
 
-- revolu Este entero representa la cantidad de revoluciones que haran los circulos. 
+- revolu: Este entero representa la cantidad de revoluciones que haran los circulos. 
 
 
 **Metodos:**
@@ -192,7 +192,7 @@ Clase que representa la septima interaccion.
 
 **Atributos:**
 
-- largo Este entero representa el largo del gusano. 
+- largo: Este entero representa el largo del gusano. 
 
 
 **Metodos:**
@@ -208,7 +208,7 @@ Clase que representa la octava interaccion.
 
 **Atributos:**
 
-- cantidad Este entero representa la cantidad de moscas en el lienzo. 
+- cantidad: Este entero representa la cantidad de moscas en el lienzo. 
 
 
 **Metodos:**
